@@ -1,0 +1,206 @@
+
+    invalid set, 14 green
+game 1 NOT VALID
+game 2 VALID
+game 3 VALID
+game 4 VALID
+game 5 VALID
+
+    invalid set, 17 green
+game 6 NOT VALID
+game 7 VALID
+
+    invalid set, 15 blue
+game 8 NOT VALID
+
+    invalid set, 13 red
+game 9 NOT VALID
+game 10 VALID
+game 11 VALID
+
+    invalid set, 18 green
+game 12 NOT VALID
+
+    invalid set, 16 green
+game 13 NOT VALID
+game 14 VALID
+game 15 VALID
+
+    invalid set, 15 blue
+game 16 NOT VALID
+game 17 VALID
+game 18 VALID
+
+    invalid set, 13 red
+game 19 NOT VALID
+game 20 VALID
+game 21 VALID
+game 22 VALID
+game 23 VALID
+game 24 VALID
+game 25 VALID
+game 26 VALID
+
+    invalid set, 15 green
+game 27 NOT VALID
+
+    invalid set, 14 red
+game 28 NOT VALID
+game 29 VALID
+game 30 VALID
+
+    invalid set, 14 green
+game 31 NOT VALID
+
+    invalid set, 14 green
+game 32 NOT VALID
+game 33 VALID
+game 34 VALID
+game 35 VALID
+
+    invalid set, 14 green
+game 36 NOT VALID
+
+    invalid set, 14 green
+game 37 NOT VALID
+
+    invalid set, 18 red
+game 38 NOT VALID
+
+    invalid set, 17 red
+game 39 NOT VALID
+game 40 VALID
+game 41 VALID
+game 42 VALID
+
+    invalid set, 18 red
+game 43 NOT VALID
+
+    invalid set, 14 green
+game 44 NOT VALID
+
+    invalid set, 16 green
+game 45 NOT VALID
+
+    invalid set, 17 blue
+game 46 NOT VALID
+
+    invalid set, 15 green
+game 47 NOT VALID
+
+    invalid set, 13 red
+game 48 NOT VALID
+
+    invalid set, 15 blue
+game 49 NOT VALID
+game 50 VALID
+game 51 VALID
+
+    invalid set, 18 green
+game 52 NOT VALID
+game 53 VALID
+
+    invalid set, 15 green
+game 54 NOT VALID
+game 55 VALID
+game 56 VALID
+
+    invalid set, 19 green
+game 57 NOT VALID
+game 58 VALID
+
+    invalid set, 18 blue
+game 59 NOT VALID
+
+    invalid set, 18 green
+game 60 NOT VALID
+game 61 VALID
+
+    invalid set, 13 red
+game 62 NOT VALID
+game 63 VALID
+
+    invalid set, 13 red
+game 64 NOT VALID
+game 65 VALID
+game 66 VALID
+
+    invalid set, 14 green
+game 67 NOT VALID
+
+    invalid set, 17 red
+game 68 NOT VALID
+
+    invalid set, 14 red
+game 69 NOT VALID
+
+    invalid set, 18 blue
+game 70 NOT VALID
+game 71 VALID
+game 72 VALID
+
+    invalid set, 14 green
+game 73 NOT VALID
+game 74 VALID
+
+    invalid set, 17 green
+game 75 NOT VALID
+game 76 VALID
+
+    invalid set, 17 green
+game 77 NOT VALID
+game 78 VALID
+
+    invalid set, 19 red
+game 79 NOT VALID
+
+    invalid set, 13 red
+game 80 NOT VALID
+game 81 VALID
+game 82 VALID
+
+    invalid set, 15 green
+game 83 NOT VALID
+game 84 VALID
+
+    invalid set, 15 green
+game 85 NOT VALID
+game 86 VALID
+
+    invalid set, 15 blue
+game 87 NOT VALID
+
+    invalid set, 16 blue
+game 88 NOT VALID
+
+    invalid set, 20 blue
+game 89 NOT VALID
+game 90 VALID
+game 91 VALID
+
+    invalid set, 15 blue
+game 92 NOT VALID
+
+    invalid set, 17 red
+game 93 NOT VALID
+
+    invalid set, 19 green
+game 94 NOT VALID
+
+    invalid set, 18 blue
+game 95 NOT VALID
+game 96 VALID
+game 97 VALID
+
+    invalid set, 13 red
+game 98 NOT VALID
+
+    invalid set, 14 red
+game 99 NOT VALID
+
+    invalid set, 16 red
+game 100 NOT VALID
+
+possible game IDs, added: 2207
+
+[Finished in 1.4s]

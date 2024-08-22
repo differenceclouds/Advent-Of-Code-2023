@@ -13,7 +13,7 @@ digits : []string = {"0","1","2","3","4","5","6","7","8","9"}
 
 
 main :: proc() {
-	data, ok := os.read_entire_file("input.txt", context.allocator)
+	data, ok := os.read_entire_file("input.txt")
 	if !ok do return
 
 	total := 0
